@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack developer from Argentina!!</h3>
 
 - 🔭 I worked on [Ebook-store App](https://e-commerce-book-store.vercel.app/books)
-<img src="https://imgur.com/zMF66ZZ" alt="Landing Image"/>
+<img src="./screenshot_2.png" alt="Landing Image"/>
 
 - 🔭 I worked on [Dogs App](https://github.com/GabrielDenis/PI-Dogs)
 
