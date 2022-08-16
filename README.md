@@ -5,7 +5,7 @@
 <img src="./Screenshot_2.png" alt="Landing Image"/>
 
 - 🔭 I worked on [Dogs App](https://github.com/GabrielDenis/PI-Dogs)
-- <img src="./Screenshot_4.png" alt="Landing Image"/>
+<img src="./Screenshot_4.png" alt="Landing Image"/>
 
 - 🌱 I’m currently learning **TypeScript | Angular | GO**
 
