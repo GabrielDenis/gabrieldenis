@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Denis</h1>
 <h3 align="center">A Fullstack developer from Argentina!!</h3>
 
-- I worked on [Ebook-store App](https://github.com/GabrielDenis/E-commerce-BookStore)
+- 🔭 I worked on [Ebook-store App](https://e-commerce-book-store.vercel.app/books)
+
+- 🔭 I worked on [Dogs App](https://github.com/GabrielDenis/PI-Dogs)
 
 - 🌱 I’m currently learning **TypeScript | Angular | GO**
-
-- I worked on [Dogs App](https://github.com/GabrielDenis/PI-Dogs)
 
 - 💬 Ask me about **Python | JavaScript | React | PostgresSQL | Sequalize | Redux**
 
