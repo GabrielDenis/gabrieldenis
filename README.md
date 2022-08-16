@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gabriel Denis</h1>
 <h3 align="center">A Fullstack developer from Argentina!!</h3>
 
-- 💬 Ask me about **Python | JavaScript | React | PostgresSQL**
+- I worked on [Ebook-store App](https://github.com/GabrielDenis/E-commerce-BookStore)
+
+- 🌱 I’m currently learning **TypeScript | Angular | GO**
+
+- I worked on [Dogs App](https://github.com/GabrielDenis/PI-Dogs)
+
+- 💬 Ask me about **Python | JavaScript | React | PostgresSQL | Sequalize | Redux**
 
 - 📫 How to reach me **gabrielemidenis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-denis-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel denis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel denis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel denis" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_deniss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_deniss" height="30" width="40" /></a>
 </p>
 
