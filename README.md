@@ -6,6 +6,8 @@
 
 I have the necessary skills to contribute knowledge to the company that decides to bet on me, I have had the opportunity to develop soft communication skills thanks to working in the family business serving clients, I am confident that I have good programming and teamwork skills. It is my goal in the future to be able to develop personally and professionally in the software development industry and to be able to work happily on it.</p>
 
+<h3 align="left">Projects i worked on recently:</h3>
+
 - 🔭 I worked on [Ebook-store App](https://e-commerce-book-store.vercel.app/books), this project was very challenging in the aspect of code and learning how to work as a team member. This project took around 3 weeks of planning, coding, and styling in which i participated in all three. I loved the team that i worked in and i spect to work on many projects like this in the future.
 <img src="./Screenshot_2.png" alt="Landing Image"/>
 
