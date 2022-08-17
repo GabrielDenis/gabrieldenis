@@ -2,9 +2,7 @@
 <h3 align="center">A Fullstack developer from Argentina!!</h3>
 
 <h3>About me:</h3>
-<p>I started in the world of programming because I was always interested in technology and curious about its inner workings. I started my journey learning Python data structures, sorting algorithms, n-ary trees, graphs, etc. I am currently training to develop as a Full Stack Developer and longed to get my first work experience in the same field. 
-
-I have the necessary skills to contribute knowledge to the company that decides to bet on me, I have had the opportunity to develop soft communication skills thanks to working in the family business serving clients, I am confident that I have good programming and teamwork skills. It is my goal in the future to be able to develop personally and professionally in the software development industry and to be able to work happily on it.</p>
+<p>I started in the world of programming because I was always interested in technology and curious about its inner workings. I started my journey learning Python data structures, sorting algorithms, n-ary trees, graphs, etc. I am currently training to develop as a Full Stack Developer and longed to get my first work experience in the same field.</p>
 
 <h3 align="left">Projects i worked on recently:</h3>
 
