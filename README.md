@@ -11,7 +11,6 @@ Backend Developer with experience designing and implementing APIs, business logi
 - 🔭 **[PyR Mendoza](https://www.pyrmendoza.com/)**: 
   Official platform for a Civil Association. I designed and developed the site to professionalize the NGO's digital presence. Features a dynamic news section, real-time statistics dashboard tracking preventions/rescues, and integrated donation modules. 
   *(Full Stack Implementation: Backend logic, API design, Frontend SPA)*
-  <img src="https://www.pyrmendoza.com/assets/logo-C1vkxDm6.svg" alt="PyR Mendoza Logo" height="80"/>
 
 - 🔭 **[Learning Tracker](https://gabrieldenis.com/learning)**: 
   A robust Full Stack application to track learning progress. Built with **Python (FastAPI)** for the REST API, **PostgreSQL** for storage, and **Next.js** for the frontend. Features JWT authentication, real-time topic management, and OpenLibrary API integration.
@@ -75,5 +74,3 @@ Backend Developer with experience designing and implementing APIs, business logi
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> 
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabiidenis&show_icons=true&locale=en&layout=compact" alt="gabrieldenis" /></p>
